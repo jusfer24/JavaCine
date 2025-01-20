@@ -1,0 +1,9 @@
+Cedula: 1724823750
+Nombre: a
+Apellido: s
+Correo: asd
+Direccion: d
+Contraseña: koala
+---------------------------
+
+
